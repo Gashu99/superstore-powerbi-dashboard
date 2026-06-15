@@ -1,9 +1,10 @@
 # 📊 Superstore Sales Dashboard — Power BI
 
 🇫🇷 Tableau de bord interactif sur Power BI, basé sur le dataset Sample Superstore.
+
 🇬🇧 Interactive Power BI dashboard based on the Sample Superstore dataset.
 
-![Vue Globale](Vue Globale.png)
+
 
 ## 🇫🇷 Pages
 
